@@ -1,2 +1,2 @@
-# sollicitatieopdracht-meemoo
-Mijn sollicitatieopdracht voor de functie van Backend Developer &amp; Analist bij meemoo.
+# Sollicitatieopdracht meemoo
+Dit is mijn sollicitatieopdracht voor de functie van _Backend Developer &amp; Analist_ bij meemoo.
